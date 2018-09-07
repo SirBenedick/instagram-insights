@@ -6,6 +6,8 @@ At the moment just the "Fake Friends Finder" application. Which will display acc
 Great for finding "Fake Friends", "Fake Accounts" and "Follow to get attention Accounts".
 
 
+![](https://media.giphy.com/media/byzfdR7NULAzOmKMm9/giphy.gif)
+
 
 
 ## Setup
