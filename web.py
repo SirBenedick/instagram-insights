@@ -7,7 +7,7 @@ from operator import itemgetter
 from flask_socketio import SocketIO, emit, send
 app = Flask(__name__)  # original
 app.config['SECRET_KEY'] = 'secret!'
-socketio = SocketIO(app)
+socketio = SocketIO(app, ping_timeout=240)
 
 
 @app.route('/')
