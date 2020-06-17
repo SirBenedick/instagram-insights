@@ -6,8 +6,7 @@ At the moment just the "Fake Friends Finder" application. Which will display acc
 Great for finding "Fake Friends", "Fake Accounts" and "Follow to get attention Accounts".
 
 
-[Example Video](https://github.com/SirBenedick/instagram-insights/blob/master/git-insta.mov)(Download and watch)
-
+![](https://github.com/SirBenedick/instagram-insights/blob/master/git-insta.gif?raw=true)
 
 
 ## Setup
